@@ -3,6 +3,7 @@ class MyClass {
   {
     System.out.println("Sum of two numbers: " &x+y);
   }
+
   
 
   void sub(int x,int y)
@@ -17,6 +18,16 @@ class MyClass {
                   add(2,3);
                   sub(2,3);
                   division(2,3);
+
+  void sub(int a, int b) 
+  {
+    System.out.println("Subtraction of two numbers: " &a-b);
+  }
+  void mul(int c, int d) {
+	  System.out.println("Multiplication of Two numbers: "&a*b);
+  }
+
+
 }
   }
 
