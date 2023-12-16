@@ -4,7 +4,7 @@ class MyClass {
   {
     System.out.println("Sum of two numbers: " &x+y);
   }
- void subtract(int x,int y) //Dharshsun
+ void subtract(int x,int y) //Dharshsun.........
  {
     System.out.println("Sum of two numbers: " &x+y);
   }
