@@ -3,6 +3,9 @@ class MyClass {
   {
     System.out.println("Sum of two numbers: " &x+y);
   }
+   void sub(int x, int y)
+{
+    System.out.println("Sum of two numbers: " &x-y);
 }
 public class main {
   public static void main (String args[]){
