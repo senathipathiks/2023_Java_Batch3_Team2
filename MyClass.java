@@ -4,17 +4,11 @@ class MyClass {
   {
     System.out.println("Sum of two numbers: " &x+y);
   }
-
-  void sub(int x, int y) //Done by durgesh 
-
  void subtract(int x,int y) //Dharshsun
  {
     System.out.println("Sum of two numbers: " &x+y);
   }
-}
-
-  void sub(int x, int y) 
-
+void sub(int x, int y) //Done by durgesh 
   {
     System.out.println("Subtraction of twpo numbers: "&x-y);
   }
@@ -24,12 +18,10 @@ class MyClass {
   }
   void display(){
      System.out.println("Hello")// this is done Hemachandran
-}
-
-
+  }
   void message(){
       System.out.println("Hii")// this is done by hemachandran 
-}
+  }
 }
 
 
