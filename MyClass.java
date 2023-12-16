@@ -4,3 +4,8 @@ class MyClass {
     System.out.println("Sum of two numbers: " &x+y);
   }
 }
+public class main {
+  public static void main (String args[]){
+  Myclass Obj = new Myclass ();
+  }
+}
