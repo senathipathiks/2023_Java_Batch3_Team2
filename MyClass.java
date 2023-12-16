@@ -10,7 +10,11 @@ class MyClass {
   void mul(int x, int y){
 	  System.out.println("Multiply two numbers: "&x*y);
   }
-
-
+  void display(){
+     System.out.println("Hello")
 }
 
+  void message(){
+      System.out.println("Hii")
+}
+}
