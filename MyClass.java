@@ -23,12 +23,12 @@ class MyClass {
     System.out.println("Multiply two numbers: "&x*y);
   }
   void display(){
-     System.out.println("Hello")
+     System.out.println("Hello")// this is done Hemachandran
 }
 
 
   void message(){
-      System.out.println("Hii")
+      System.out.println("Hii")// this is done by hemachandran 
 }
 }
 
